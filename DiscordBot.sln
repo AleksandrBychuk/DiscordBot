@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordBot-Api", "DiscordBot-Api\DiscordBot-Api.csproj", "{F59B88E0-28E3-4396-A2C1-5998D4033B9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordBot-Web", "DiscordBot-Web\DiscordBot-Web.csproj", "{1D9270B0-DFCB-40F3-A0FA-A345CFB11BFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordBot-Gateway", "DiscordBot-Gateway\DiscordBot-Gateway.csproj", "{E2A40C2F-78E1-433C-937B-7F1A101AEBAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordBot-Identity", "DiscordBot-Identity\DiscordBot-Identity.csproj", "{DCFC6F3B-0518-4C1D-B34A-F6900A2B4AF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F59B88E0-28E3-4396-A2C1-5998D4033B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59B88E0-28E3-4396-A2C1-5998D4033B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F59B88E0-28E3-4396-A2C1-5998D4033B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59B88E0-28E3-4396-A2C1-5998D4033B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D9270B0-DFCB-40F3-A0FA-A345CFB11BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D9270B0-DFCB-40F3-A0FA-A345CFB11BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D9270B0-DFCB-40F3-A0FA-A345CFB11BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D9270B0-DFCB-40F3-A0FA-A345CFB11BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A40C2F-78E1-433C-937B-7F1A101AEBAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A40C2F-78E1-433C-937B-7F1A101AEBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A40C2F-78E1-433C-937B-7F1A101AEBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A40C2F-78E1-433C-937B-7F1A101AEBAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCFC6F3B-0518-4C1D-B34A-F6900A2B4AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFC6F3B-0518-4C1D-B34A-F6900A2B4AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFC6F3B-0518-4C1D-B34A-F6900A2B4AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFC6F3B-0518-4C1D-B34A-F6900A2B4AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {440D0003-5CA7-4895-8B7F-77B324CF6238}
+	EndGlobalSection
+EndGlobal
