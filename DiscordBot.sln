@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscordBot-Gateway", "Disco
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscordBot-Identity", "DiscordBot-Identity\DiscordBot-Identity.csproj", "{DCFC6F3B-0518-4C1D-B34A-F6900A2B4AF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordBot-Web", "DiscordBot-Web\DiscordBot-Web.csproj", "{32AB492C-BFF0-4146-A3B0-2BC72AEB6B83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscordBot-Web", "DiscordBot-Web\DiscordBot-Web.csproj", "{32AB492C-BFF0-4146-A3B0-2BC72AEB6B83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
