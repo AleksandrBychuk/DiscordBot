@@ -1,4 +1,4 @@
-using DiscordBot_Web.Data;
+using DiscordBot_Web.HttpClient;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 
@@ -8,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddHttpClient();
-builder.Services.AddSingleton<WeatherForecastService>();
+builder.Services.AddSingleton<GatewayHttpClient>();
 
 var app = builder.Build();
 
