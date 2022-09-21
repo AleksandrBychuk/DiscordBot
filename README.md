@@ -6,3 +6,9 @@
 > > Not main plan
 > > - HttpClient? Good soluton or not, security and things like that...
 > > - Tests
+### **Architecture**
+- DiscordBot-Api
+- DiscordBot-Identity
+- DiscordBot-Web
+- DiscordBot-Bot
+- DiscordBot-Gateway
